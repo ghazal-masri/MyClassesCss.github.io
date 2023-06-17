@@ -1,0 +1,42 @@
+p.error{
+
+    color: red;
+}
+p.soso{
+    color: greenyellow;
+}
+p.soso.dodo{
+    border: 4px dashed purple;
+}
+#content{
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 30px;
+}
+div p{
+    color: darkorange;
+}
+div .error{
+    background-color: black;
+}
+div #bobo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a[href]{
+    background-color: aqua;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+a[href="https://translate.google.ps/?hl=en&sl=en&tl=ar&op=translate"]{
+    background-color: yellow;
+}
+a[href*="google"]{
+    border: 2px solid black;
+
+}
+a[href$="com/"]{
+    font-family: monospace;
+
+}

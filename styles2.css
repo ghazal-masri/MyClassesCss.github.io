@@ -1,0 +1,11 @@
+div{
+    border: 5px solid blue;
+    background-color: bisque;
+    margin: 50px;
+}
+p{
+    color: chocolate;
+    margin: inherit;
+    border: inherit;
+    padding: 20px;
+}
